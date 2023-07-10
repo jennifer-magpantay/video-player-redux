@@ -4,7 +4,7 @@ An video player for online courses.
 
 ## Technologies
 
-- Vite, React, Redux Toolkit, Sass, Phosphor Icons.
+- Vite, React, Redux Toolkit, JSON Server, Sass, Phosphor Icons.
 
 ## Goals
 
